@@ -13,12 +13,6 @@ A comprehensive web-based application developed using the **Django** framework t
 ### Homepage
 ![Homepage](static/screenshots/homepage.png)
 
-### Invoice Generation
-![Invoice](static/screenshots/invoice.png)
-
-### Doctor Management
-![Doctor List](static/screenshots/admin_doctor.png)
----
 
 ## Key Features
 
