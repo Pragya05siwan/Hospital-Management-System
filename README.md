@@ -13,9 +13,6 @@ A comprehensive web-based application developed using the **Django** framework t
 ### Homepage
 ![Homepage](static/screenshots/homepage.png)
 
-### Admin Dashboard
-![Admin Dashboard](static/screenshots/admin_dashboard.png)
-
 ### Invoice Generation
 ![Invoice](static/screenshots/invoice.png)
 
