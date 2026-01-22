@@ -8,6 +8,20 @@ A comprehensive web-based application developed using the **Django** framework t
 - **Pragya**
 
 ---
+## Project Screenshots
+
+### Homepage
+![Homepage](static/screenshots/homepage.png)
+
+### Admin Dashboard
+![Admin Dashboard](static/screenshots/admin_dashboard.png)
+
+### Invoice Generation
+![Invoice](static/screenshots/invoice.png)
+
+### Doctor Management
+![Doctor List](static/screenshots/admin_doctor.png)
+---
 
 ## Key Features
 
